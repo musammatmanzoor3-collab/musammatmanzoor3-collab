@@ -1,2 +1,2 @@
-# musammatmanzoor3-collab-
-Hi, I'm Musammat Manzoor 👋 Master's student | Essentials of AI | Exploring Python, ML & AI Ethics Focused on data-driven problem solving and building impactful AI solutions. 🛠️ Tools: Python | Data Analysis | Machine Learning 🎯 Goal: To grow as an AI specialist and bridge academia with real-world innovation.
+# musammatmanzoor3-collab
+### Hi there, I'm Musammat Manzoor 👋I'm a Master's student passionate about **Artificial Intelligence, Data Science & AI Ethics**.  #### 🛠️ Tools & Technologies.- Languages: Python, SQL, C++ - AI/ML: Machine Learning, Deep Learning, NLP - Tools: Git, GitHub, Jupyter, VS Code. #### 🎯 Goals - To build AI solutions for real-world problems - To master Generative AI and Ethical AI - To contribute to open-source. #### 🌱 Interests.- AI & Machine Learning.- Data Analysis and Visualization.- Prompt Engineering
