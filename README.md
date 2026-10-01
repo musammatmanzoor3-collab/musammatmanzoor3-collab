@@ -1,1 +1,4 @@
-### Hi there, I'm Musammat Manzoor 👋I'm a Master's student passionate about **Artificial Intelligence, Data Science & AI Ethics**.              #### 🛠️ Tools & Technologies.- Languages: Python, SQL, C++ -     AI/ML: Machine Learning, Deep Learning, NLP - Tools: Git, GitHub, Jupyter, VS Code.                    #### 🎯 Goals - To build AI solutions for real-world problems - To master Generative AI and Ethical AI - To contribute to open-source.          #### 🌱 Interests.- AI & Machine Learning.- Data Analysis and Visualization.- Prompt Engineering
+### Hi there, I'm Musammat Manzoor 👋I'm a Master's student passionate about **Artificial Intelligence, Data Science & AI Ethics**.             
+#### 🛠️ Tools & Technologies.- Languages: Python, SQL, C++ -     AI/ML: Machine Learning, Deep Learning, NLP - Tools: Git, GitHub, Jupyter, VS Code.                   
+#### 🎯 Goals - To build AI solutions for real-world problems - To master Generative AI and Ethical AI - To contribute to open-source.         
+#### 🌱 Interests.- AI & Machine Learning.- Data Analysis and Visualization.- Prompt Engineering
